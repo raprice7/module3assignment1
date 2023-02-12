@@ -1,0 +1,15 @@
+{
+  "name": "m3a1",
+  "version": "1.0.0",
+  "description": "Lab for creating node environment",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Price",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
